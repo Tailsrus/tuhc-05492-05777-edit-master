@@ -1,0 +1,14 @@
+The Unofficial Homestuck Collection Experience 05492 & 05777
+
+Software: Adobe Flash Progessional CS6 (Version 12.0.0.481)
+		  FreeFlashdec 18.5.0
+		  Sothink SWF Decompiler
+
+Edit: 05492.swf
+      05777.swf
+
+I will say at once, Bambosh and/or GiovanH if you are interested to add it to the collection, I do not mind, the sources and the swf themselves in your hands, if you do not want to unnecessarily understand, and change something you want by myself, then contact.
+For everyone else, example YOU, you too can use the sources however you like.
+
+About the changes.
+I changed not only the name of the tabs in these flashes to be the same as in the collection, but also added collection chips such as going to the next and previous page with PC-arrows and a clickable link to the original Homestuck page.
