@@ -1,8 +1,7 @@
 module.exports = {
   title: "TUHC Experience 05492 & 05777", 
-  summary: "1",
+  summary: "05492.swf & 05777.swf tabs have been changed as it was done in 06898 ([S] GAME OVER.) + decompiled sources of these swf.",
   author: "Tailsrus",
-  description: "1",
   modVersion: 1.0,
 
   edit: true,
